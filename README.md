@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👨🏻‍💻 Mahdi
 
-<!--
-**mahdi-mrhiouni/mahdi-mrhiouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TON_USERNAME?style=social" />
+  <img src="https://img.shields.io/github/stars/TON_USERNAME?style=social" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 À propos de moi
+
+💻 Étudiant et passionné par l’informatique  
+📘 J’apprends le **C#**, **Python**, et le **développement web**  
+🐧 Découverte et utilisation de **Linux**  
+🎯 Objectif : devenir développeur professionnel
+
+---
+
+## 🛠️ Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 📂 Ce que je partage sur GitHub
+
+- Exercices en C# et Python
+- Projets d’apprentissage
+- Tests et pratiques personnelles
+- Code commenté et corrigé
+
+---
+
+## 🎯 Objectifs
+
+- Comprendre les bases solides de la programmation
+- Créer des projets simples
+- Progresser chaque jour
+- Travailler sur des projets réels
+
+---
+
+## 🎉 Fun
+
+<p>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30"/>
+</p>
+
+---
+
+✨ Merci de visiter mon profil !
