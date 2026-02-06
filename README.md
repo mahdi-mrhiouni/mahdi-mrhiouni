@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 À propos de moi
+## À propos de moi
 
 💻 Étudiant et passionné par l’informatique  
 📘 J’apprends le **C#**, **Python**, et le **développement web**  
@@ -28,16 +28,10 @@
 
 ---
 
-## 📂 Ce que je partage sur GitHub
-
-- Exercices en C# et Python
-- Projets d’apprentissage
-- Tests et pratiques personnelles
-- Code commenté et corrigé
 
 ---
 
-## 🎯 Objectifs
+##  Objectifs
 
 - Comprendre les bases solides de la programmation
 - Créer des projets simples
@@ -46,7 +40,7 @@
 
 ---
 
-## 🎉 Fun
+
 
 <p>
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"/>
