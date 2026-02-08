@@ -5,18 +5,10 @@
   <img src="https://img.shields.io/github/stars/TON_USERNAME?style=social" />
 </p>
 
----
-
-## À propos de moi
-
-💻 Étudiant et passionné par l’informatique  
-📘 J’apprends le **C#**, **Python**, et le **développement web**  
-🐧 Découverte et utilisation de **Linux**  
-🎯 Objectif : devenir développeur professionnel
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -29,16 +21,7 @@
 ---
 
 
----
 
-##  Objectifs
-
-- Comprendre les bases solides de la programmation
-- Créer des projets simples
-- Progresser chaque jour
-- Travailler sur des projets réels
-
----
 
 
 
