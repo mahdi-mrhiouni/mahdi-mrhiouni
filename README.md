@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Mahdi
+# 🧙🏿‍♂️ Mahdi
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/TON_USERNAME?style=social" />
@@ -8,7 +8,7 @@
 
 ---
 
-##  Technologies
+
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
+
 
 
 
@@ -32,6 +32,6 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30"/>
 </p>
 
----
 
-✨ Merci de visiter mon profil !
+
+
