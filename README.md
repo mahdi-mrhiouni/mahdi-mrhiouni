@@ -1,4 +1,8 @@
-## Hi, I'm Mahdi Mrhiouni, a Full-Stack Web Developer 
+<p align="center">
+  <img src="banner.png" alt="Octocat hiking in the mountains" width="100%" />
+</p>
+
+## Hi, I'm Mahdi Mrhiouni, a Full-Stack Web Developer 🚀 from Marrakech, Morocco.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mahdi-mrhiouni)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-mrhiouni)
@@ -6,6 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=Google-Chrome&logoColor=white)](https://portfolio.mahdi-mrhiouni.workers.dev/)
 
 &nbsp;
+
 
 
 
@@ -33,17 +38,11 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 </p>
 
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/mahdi-mrhiouni/mahdi-mrhiouni.svg" />
-</p>
+
 
 ---
 
-<!-- My main projects -->
-<p align="center">
-  <b>CLMA</b> — Clinic Management App · React, Laravel, MySQL, Auth & Roles, REST API<br />
 
-</p>
 
 <p align="center">
   🌐 <a href="https://portfolio.mahdi-mrhiouni.workers.dev/">My Portfolio</a> ·  <a href="https://www.linkedin.com/in/mahdi-mrhiouni">LinkedIn</a> · ✉️ <a href="mailto:mahdimrhiouni@gmail.com">mahdimrhiouni@gmail.com</a>
