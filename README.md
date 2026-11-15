@@ -32,20 +32,11 @@
   <img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 </p>
 
-**📊 GitHub Stats:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-mrhiouni&show_icons=true&hide_border=true&theme=dark" alt="Mahdi's github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-mrhiouni&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
-</p>
 
 ---
 
 
 
 <p align="center">
-  🌐 <a href="https://portfolio.mahdi-mrhiouni.workers.dev/">My Portfolio</a> · 💼 <a href="https://www.linkedin.com/in/mahdi-mrhiouni">LinkedIn</a> · ✉️ <a href="mailto:mahdimrhiouni@gmail.com">mahdimrhiouni@gmail.com</a>
+   <a href="https://portfolio.mahdi-mrhiouni.workers.dev/">My Portfolio</a> ·  <a href="https://www.linkedin.com/in/mahdi-mrhiouni">LinkedIn</a> ·  <a href="mailto:mahdimrhiouni@gmail.com">mahdimrhiouni@gmail.com</a>
 </p>
